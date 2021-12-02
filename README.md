@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Me chamo Filipe Loesch Ferreira!<br>
-Minha irmã chama Maria Eduarda Loesch Ferreira!
+Minha irmã chama Maria Eduarda Loesch Ferreira!<br>
 Meu pai chama Marcelo Franco Ferreira!
 
 <!--
