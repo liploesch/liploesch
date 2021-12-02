@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Me chamo Filipe Loesch Ferreira!
+Me chamo Filipe Loesch Ferreira!<br>
 Minha irmã chama Maria Eduarda Loesch Ferreira!
+Meu pai chama Marcelo Franco Ferreira!
 
 <!--
 **liploesch/liploesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
